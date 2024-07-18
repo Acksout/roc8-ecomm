@@ -77,7 +77,7 @@ function RegisterUser() {
                 name="password"
                 className="mt-3 flex max-md:max-w-full max-md:flex-wrap gap-5 whitespace-nowrap rounded-md border border-solid border-stone-300 bg-white px-4 py-4"
             />
-            <p>Use this pass if you're lazy FBKd0g*I2*4*$k1n</p>
+            <p>Use this pass if you&apos;re lazy FBKd0g*I2*4*$k1n</p>
 
             <button
                 className="mt-10 max-md:max-w-full items-center justify-center whitespace-nowrap rounded-md border border-solid border-black bg-black max-md:px-5 px-16 py-5 text-center font-medium uppercase tracking-wider text-white">
