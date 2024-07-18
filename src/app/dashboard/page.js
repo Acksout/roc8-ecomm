@@ -10,7 +10,7 @@ function Dashboard() {
     const [displayCategories, setDisplayCategories] = useState([]);
     const [pages, setPages] = useState([]);
     const [loading, setLoading] = useState(true);
-    const perPage = 13;
+    const perPage = 6;
 
     useEffect(() => {
         fetch("/api/category")
